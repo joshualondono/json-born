@@ -5,7 +5,7 @@ Just a quick back-end project for reading and writing to a JSON file!
 
 ### Workflow
 
-* **VERY IMPORTANT!** You'll be working in the `students.json` file, but to make sure your workflow can remain consistent with the past projects (mainly your `jest --watch-all` capability), you're going to have to move `student.json` exactly one level up from this repo. **And it needs to stay there.**
+* **VERY IMPORTANT!** You'll be working in the `main.js` file, but to make sure your workflow can remain consistent with the past projects (mainly your `jest --watch-all` capability), you're going to have to move `student.json` exactly one level up from this repo. **And it needs to stay there.**
 * Otherwise (and because of that step), this will be your typical test-driven workflow.
 
 
